@@ -1,6 +1,6 @@
 <?php include ('header.html'); ?>
 <br>
-<div class="card">
+<div class="card"> 
   <div class="card-header">
     Cari Data Buku
   </div>
@@ -49,3 +49,4 @@
 <?php include ('footer.html'); ?>
 <!-- ajax -->
 <script src="ajax.js"></script>
+<!-- ini adalah codingan untuk index -->
