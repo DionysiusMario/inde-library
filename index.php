@@ -49,4 +49,4 @@
 <?php include ('footer.html'); ?>
 <!-- ajax -->
 <script src="ajax.js"></script>
-<!-- ini adalah codingan untuk index -->
+<!-- ini adalah codingan untuk index yang akan ada di branchbaru-->
